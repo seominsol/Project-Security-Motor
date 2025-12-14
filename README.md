@@ -35,7 +35,8 @@ RFID 기반 사용자 인증 + IR 리모컨 제어 + RTOS 구조를 활용해
 
 ---
 
-## ⚙️ 시스템 동작 흐름
+## ⚙️ 시스템 동작 흐름 (시나리오)
+
 
 ### 🔐 1) 사용자 인증  
 - RFID 태그 → UID 읽기 → 등록 여부 확인  
@@ -70,7 +71,7 @@ RFID 기반 사용자 인증 + IR 리모컨 제어 + RTOS 구조를 활용해
 ---
 
 ## 💻 소프트웨어 주요 로직
-
+<img width="1943" height="1246" alt="image" src="https://github.com/user-attachments/assets/bfd9bc56-8825-406b-ba2a-a351264a6b7a" />
 ### 🧠 Core Logic
 - 메시지 큐(`core_msg_queue`)를 기반으로 Task 간 이벤트 처리  
 - 초기화: RFID, UID Manager, Motor Sleep, Timer 설정, IR 초기화  
