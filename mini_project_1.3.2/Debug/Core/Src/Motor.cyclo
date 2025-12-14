@@ -1,0 +1,9 @@
+../Core/Src/Motor.c:14:6:stepMotor	1
+../Core/Src/Motor.c:25:6:rotateLeft	2
+../Core/Src/Motor.c:31:6:rotateRight	2
+../Core/Src/Motor.c:37:6:setRotateRight	1
+../Core/Src/Motor.c:40:6:setRotateLeft	1
+../Core/Src/Motor.c:46:6:MotorOnOffToggle	3
+../Core/Src/Motor.c:55:6:Run_Motor	4
+../Core/Src/Motor.c:67:6:Motor_Sleep	1
+../Core/Src/Motor.c:70:6:Motor_Awake	1

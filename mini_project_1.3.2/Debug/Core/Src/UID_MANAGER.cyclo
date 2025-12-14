@@ -1,0 +1,8 @@
+../Core/Src/UID_MANAGER.c:11:9:getUIDMgrMode	1
+../Core/Src/UID_MANAGER.c:15:6:setUIDMgrMode	1
+../Core/Src/UID_MANAGER.c:19:17:GetFlashAddress	1
+../Core/Src/UID_MANAGER.c:23:6:UIDManager_Init	6
+../Core/Src/UID_MANAGER.c:49:5:UIDManager_IsRegistered	3
+../Core/Src/UID_MANAGER.c:58:6:UIDManager_SaveUID	12
+../Core/Src/UID_MANAGER.c:123:5:UIDManager_DeleteUID	10
+../Core/Src/UID_MANAGER.c:185:5:UIDManager_ReadAll	3

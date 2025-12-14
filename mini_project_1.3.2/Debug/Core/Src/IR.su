@@ -1,0 +1,5 @@
+../Core/Src/IR.c:17:9:isIRKeyReady	4	static
+../Core/Src/IR.c:19:9:getIRCMD	4	static
+../Core/Src/IR.c:24:6:reset_ir_state	4	static
+../Core/Src/IR.c:30:6:irCallBack	16	static
+../Core/Src/IR.c:76:9:decode	72	static
