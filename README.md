@@ -99,7 +99,8 @@ RFID 기반 사용자 인증 + IR 리모컨 제어 + RTOS 구조를 활용해
 ---
 
 ## 🎬 시연 결과 (Summary)
-<img width="328" height="188" alt="image" src="https://github.com/user-attachments/assets/3f6f78ab-7201-4dd1-9c5f-84c6ae9cb37b" />
+<img width="978" height="557" alt="image" src="https://github.com/user-attachments/assets/9f19ea1e-5f57-4b5f-91f5-ebbf0961713d" />
+
 
 - 등록/미등록 카드 동작 확인  
 - 등록 모드 진입 → UID 저장 성공  
